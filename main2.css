@@ -1,0 +1,47 @@
+/* css facebook version 2 */
+
+/*color checker */
+
+	.blue 		{ background-color:#3b5998;}
+	.blue_text 	{ color:#3b5998;}
+	.medium_blue 	{ background-color:#6d84b4; }
+	
+
+
+/* pictures */
+
+
+	.logo_fb	{ 
+			 height:30px;
+			 margin-top: 10px;
+			 width: auto;
+			 }
+	
+	.like_present	{
+			margin-top:10%;
+			margin-left:-5%;
+			}
+	
+	.Image		{
+			display: inline-block;
+			}
+			 
+/* align */
+	
+	.center		{
+			text-align: center;
+			}
+
+/* formulaires */
+
+	.white_label 	{
+			color: white;
+			}
+			
+	
+	.style_input	{
+			width:150px;
+			height:20px;
+			margin-bottom:10px;
+			margin-top:-5px;
+			}
